@@ -1,2 +1,2 @@
 # TheBatmanQuiz
-Contains a unity project where the user views a short clip from the 2009 'The Batman' cartoon. The user is then given a ten-question quiz that can be answered by using the included video.
+Contains a unity project where the user views a short clip from the 2009 'The Batman' cartoon. The user is then given a ten-question quiz that can be answered by using the included video. I created the quiz with these theme because I loved watching that cartoon as a child, and it actually served as my introduction to superheroes when I was young. I chose some details that are not too difficult to find in the included video, as I wanted the quiz to not be too frustrating.
